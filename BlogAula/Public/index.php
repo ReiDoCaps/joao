@@ -2,6 +2,7 @@
 include "./../App/configuracao.php";
 include "./../App/Libraries/Rota.php";
 include "./../App/Libraries/Controller.php";
+include "./../App/Libraries/Database.php"
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
